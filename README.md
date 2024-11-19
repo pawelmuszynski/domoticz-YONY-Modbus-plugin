@@ -12,7 +12,7 @@ Tested with chinese RS485 to serial UART module. It didn't work with low voltage
 ```
 cd ~/domoticz/plugins
 pip install minimalmodbus
-git clone https://github.com/pawelmuszynski/domoticz-YONY-Modbus
+git clone https://github.com/pawelmuszynski/domoticz-YONY-Modbus-plugin
 ```
 Restart your Domoticz server.
 
